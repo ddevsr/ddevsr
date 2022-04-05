@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ddevsr
+- 👋 Hi, I’m <strong>Denny Septian Panggabean</strong>
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning UI & UX
-- 💞️ I’m looking to collaborate on Web Design
 - 📫 Contact me on hexageek1337@gmail.com
 
 ### 📈 My GitHub Statistics
