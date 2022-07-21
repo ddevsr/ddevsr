@@ -7,7 +7,7 @@
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ddevsr&count_private=true&show_icons=true&hide_title=true)
 
-![My GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddevsr&theme=github)
+![My GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddevsr&theme=github)
 
 <!---
 ddevsr/ddevsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
