@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <strong>Denny Septian Panggabean</strong>
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning UI & UX
-- 📫 Contact me on hexageek1337@gmail.com
+- 📫 Contact me on denny@phpdevsr.com
 
 ### 📈 My GitHub Statistics
 
