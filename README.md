@@ -24,12 +24,8 @@ A developer passionate about building scalable, secure, and high-performance sys
 
 <h3 align='center'>My Statistics</h3>
 <p align='center'>
-  <a href="https://github.com/ddevsr">
-    <img src="https://github-readme-stats.vercel.app/api?username=ddevsr&show_icons=true&count_private=true&theme=dracula&hide_title=true&hide_border=true" width="380">
-  </a>
-  <a href="https://github.com/ddevsr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddevsr&layout=compact&show_icons=true&count_private=true&theme=dracula&hide_title=true&hide_border=true" width="370">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ddevsr&show_icons=true&count_private=true&theme=dracula&hide_title=true&hide_border=true" width="382">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddevsr&layout=compact&show_icons=true&count_private=true&theme=dracula&hide_title=true&hide_border=true" width="370">
 </p>
 <!---
 ddevsr/ddevsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
