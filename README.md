@@ -20,6 +20,7 @@ A developer passionate about building scalable, secure, and high-performance sys
 <h2 align='center'>Primary Framework</h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
 <h3 align='center'>My Statistics</h3>
